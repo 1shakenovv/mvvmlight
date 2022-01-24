@@ -6,11 +6,6 @@
 
 The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in Xamarin.Android, Xamarin.iOS, Xamarin.Forms, Windows 10 UWP, Windows Presentation Foundation (WPF), Silverlight, Windows Phone.
 
-## Get started
-
-More information about the MVVM Light Toolkit can be found on http://www.mvvmlight.net.
-
-Documentation: See http://www.mvvmlight.net/doc
 
 ## Nuget versions
 
